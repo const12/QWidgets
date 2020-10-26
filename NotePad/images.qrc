@@ -1,0 +1,92 @@
+<RCC>
+    <qresource prefix="/UI">
+        <file>icon/File new.png</file>
+        <file>icon/Save as.png</file>
+        <file>icon/Save.png</file>
+        <file>icon/App attention.png</file>
+        <file>icon/App delete.png</file>
+        <file>icon/App download.png</file>
+        <file>icon/App edit.png</file>
+        <file>icon/App help.png</file>
+        <file>icon/App info.png</file>
+        <file>icon/App search.png</file>
+        <file>icon/App upload.png</file>
+        <file>icon/App web.png</file>
+        <file>icon/App.png</file>
+        <file>icon/Applications.png</file>
+        <file>icon/Attention.png</file>
+        <file>icon/Bt attention.png</file>
+        <file>icon/Bt down.png</file>
+        <file>icon/Bt fw.png</file>
+        <file>icon/Bt left.png</file>
+        <file>icon/Bt pause.png</file>
+        <file>icon/Bt play.png</file>
+        <file>icon/Bt remove.png</file>
+        <file>icon/Bt right.png</file>
+        <file>icon/Bt rw.png</file>
+        <file>icon/Bt skip fw.png</file>
+        <file>icon/Bt skip rw.png</file>
+        <file>icon/Bt stop.png</file>
+        <file>icon/Bt up.png</file>
+        <file>icon/Cd attention.png</file>
+        <file>icon/Cd new.png</file>
+        <file>icon/Cd remove.png</file>
+        <file>icon/Cd.png</file>
+        <file>icon/Copy.png</file>
+        <file>icon/Cut.png</file>
+        <file>icon/Dvd.png</file>
+        <file>icon/Email del.png</file>
+        <file>icon/Email edit.png</file>
+        <file>icon/Email new.png</file>
+        <file>icon/Email send.png</file>
+        <file>icon/File attention.png</file>
+        <file>icon/File del.png</file>
+        <file>icon/File edit.png</file>
+        <file>icon/File explore.png</file>
+        <file>icon/File export.png</file>
+        <file>icon/File help.png</file>
+        <file>icon/File import.png</file>
+        <file>icon/File music.png</file>
+        <file>icon/File web.png</file>
+        <file>icon/File.png</file>
+        <file>icon/Hd off.png</file>
+        <file>icon/Hd on.png</file>
+        <file>icon/Hd.png</file>
+        <file>icon/Help.png</file>
+        <file>icon/Home.png</file>
+        <file>icon/IFolder add.png</file>
+        <file>icon/IFolder docs.png</file>
+        <file>icon/IFolder downloads.png</file>
+        <file>icon/Ifolder music.png</file>
+        <file>icon/IFolder remove.png</file>
+        <file>icon/IFolder.png</file>
+        <file>icon/IMac.png</file>
+        <file>icon/Info.png</file>
+        <file>icon/IPod black down.png</file>
+        <file>icon/IPod black.png</file>
+        <file>icon/IPod downloads.png</file>
+        <file>icon/IPod Shuffle.png</file>
+        <file>icon/IPod.png</file>
+        <file>icon/Macmini.png</file>
+        <file>icon/Mail.png</file>
+        <file>icon/Paste.png</file>
+        <file>icon/Print.png</file>
+        <file>icon/Search.png</file>
+        <file>icon/Shopping cart full.png</file>
+        <file>icon/Shopping cart.png</file>
+        <file>icon/Sound.png</file>
+        <file>icon/Trash full.png</file>
+        <file>icon/Trash.png</file>
+        <file>icon/Web attention.png</file>
+        <file>icon/Web find.png</file>
+        <file>icon/Web off.png</file>
+        <file>icon/Web on.png</file>
+        <file>icon/Web.png</file>
+        <file>icon/Zoom in.png</file>
+        <file>icon/Zoom out.png</file>
+        <file>icon/exit.png</file>
+        <file>icon/replace.png</file>
+        <file>icon/Folder temporary.png</file>
+        <file>icon/selectAll.png</file>
+    </qresource>
+</RCC>
